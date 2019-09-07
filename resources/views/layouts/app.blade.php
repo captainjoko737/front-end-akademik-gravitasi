@@ -11,7 +11,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('/public/assets/images/logo_akbid.png') }}">
-    <title>{{ isset($title) ? $title : 'AKADEMIK FKIP' }}</title>
+    <title>{{ isset($title) ? $title : 'AKADEMIK KEBIDANAN' }}</title>
     <!-- Bootstrap Core CSS -->
     <link href="{{ asset('/public/assets/plugins/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
     <!-- page css -->
