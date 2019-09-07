@@ -15,7 +15,7 @@
 
 @section('content')
 <section id="wrapper">
-    <div class="login-register" style="background-image:url({{ url('/public/assets/images/background/background.jpg') }});">
+    <div class="login-register" style="background-image:url({{ url('/public/assets/images/background/background_akbid.jpg') }});">
         <div class="login-box card rounded">
             <div class="card-body">
                 
@@ -28,7 +28,7 @@
                 <form class="form-horizontal form-material" id="loginform" method="POST" action="{{ route('login') }}">
                     {{ csrf_field() }}
 
-                    <img class="center" src="{{ asset('/public/assets/images/logo_fkip.png') }}" width="80vw">
+                    <img class="center" src="{{ asset('/public/assets/images/logo_akbid.png') }}" width="80vw">
                     <h3 class="box-title m-b-20 text-center font-weight-bold">Sistem Informasi Akademik</h3>
                     
                     <div class="form-group{{ $errors->has('nomor_induk') ? ' has-error' : '' }}">

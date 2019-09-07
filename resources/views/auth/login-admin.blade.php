@@ -15,7 +15,7 @@
 
 @section('content')
 <section id="wrapper">
-    <div class="login-register" style="background-image:url({{ url('/public/assets/images/background/background.jpg') }});">
+    <div class="login-register" style="background-image:url({{ url('/public/assets/images/background/background_akbid.jpg') }});">
         <div class="login-box card rounded">
             <div class="card-body">
                 

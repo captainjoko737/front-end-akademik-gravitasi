@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('/public/assets/images/logo_fkip_small.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('/public/assets/images/logo_akbid.png') }}">
     <title>{{ isset($title) ? $title : 'AKADEMIK FKIP' }}</title>
     <!-- Bootstrap Core CSS -->
     <link href="{{ asset('/public/assets/plugins/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
@@ -49,7 +49,7 @@
     <div class="preloader">
         <div class="loader">
             <div class="loader__figure"></div>
-            <p class="loader__label">AKADEMIK FKIP</p>
+            <p class="loader__label">AKADEMI KEBIDANAN</p>
         </div>
     </div>
 

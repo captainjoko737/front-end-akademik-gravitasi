@@ -8,16 +8,16 @@
                 <!-- Logo icon --><b>
                     <!--You can put here icon as well // <i class="wi wi-sunset"></i> //-->
                     <!-- Dark Logo icon -->
-                    <img src="{{ asset('/public/assets/images/logo_fkip_small.png') }}" width="30px" alt="" class="dark-logo" />
+                    <img src="{{ asset('/public/assets/images/logo_akbid.png') }}" width="30px" alt="" class="dark-logo" />
                     <!-- Light Logo icon -->
-                    <img src="{{ asset('/public/assets/images/logo_fkip_small.png') }}" width="30px" alt="" class="light-logo" />
+                    <img src="{{ asset('/public/assets/images/logo_akbid.png') }}" width="30px" alt="" class="light-logo" />
                 </b>
                 <!--End Logo icon -->
                 <!-- Logo text --><span>
                  <!-- dark Logo text -->
-                 <img src="{{ asset('/public/assets/images/akademikfkip.png') }}" width="200px" alt="homepage" class="dark-logo" />
+                 <img src="{{ asset('/public/assets/images/akademikakbid.png') }}" width="200px" alt="homepage" class="dark-logo" />
                  <!-- Light Logo text -->    
-                 <img src="{{ asset('/public/assets/images/akademikfkip.png') }}" width="200px" class="light-logo" alt="homepage" /></span> </a>
+                 <img src="{{ asset('/public/assets/images/akademikakbid.png') }}" width="200px" class="light-logo" alt="homepage" /></span> </a>
         </div>
         <!-- ============================================================== -->
         <!-- End Logo -->
